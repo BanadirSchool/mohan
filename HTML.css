@@ -1,0 +1,79 @@
+#container
+{
+    width:1400px;
+    height:400px;
+    background: rgb(175, 6, 6);
+}
+h2{
+    background-image: rgb(83, 218, 173);font-family: "Demode";
+    border-style: double;
+    border-width:6px;
+border-color:rgb(255, 217, 0);
+}
+#header{
+    background-color: green;
+    font-family: black;
+    text-align: center;
+}
+body{
+    background-image: url('7aad.JPG');
+    background-size: cover;
+
+}
+h1 {
+
+ 
+    width:5000px;
+    height: 200px;
+    background: rgba(140, 223, 216, 0.801);
+        border-style: double;
+    border-width:4px;
+border-color:chartreuse;
+
+}
+
+
+
+
+.box-c
+{
+
+ 
+    width:510px;
+    height: 90px;
+    background: rgba(116, 148, 207, 0.801);
+        border-style: double;
+    border-width:4px;
+border-color:chartreuse;
+margin-left: 100px;
+
+}
+.box-d {
+
+ 
+    width:510px;
+    height: 90px;
+    background: rgba(15, 56, 75, 0.801);
+        border-style: double;
+    border-width:4px;
+border-color:rgb(255, 0, 157);
+margin-left: 100px;
+
+}
+
+.box-e {
+
+ 
+    width:510px;
+    height: 90px;
+    background: rgba(123, 215, 221, 0.801);
+        border-style: double;
+    border-width:4px;
+border-color:rgb(243, 8, 204);
+margin-left: 100px;
+}
+
+
+
+
+   
