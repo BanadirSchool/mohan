@@ -50,7 +50,10 @@
                     <a href="#"><ion-icon name="logo-skype"></ion-icon></a>
 
 
-
+ <img src="img/my picture.jpg"style="border-radius: 50;">
+  <img src="img/asma.jpg" style="border-radius: 50;">
+   <img src="img/suheib.jpg" style="border-radius: 50px;">
+    <img src="img/abdinasir.jpg" style="border-radius: 50;">
 
                 </div>
              </div>
