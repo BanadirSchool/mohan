@@ -57,10 +57,10 @@
             
         }
     </style>
-    <body>
+   
         <h1> hoverable Table</h1>
         <hr>
-        <table>
+        
             <tr id="BANADIR SCHOOL"> 
                 <th> MAGACA</th>
                 <th> MAADADA</th>
@@ -101,7 +101,4 @@
 
 
 
-        </table>
-    </body>
-</html>
-    
+ 
