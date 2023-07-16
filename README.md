@@ -1,4 +1,4 @@
-<!Doctype html>
+
 <html>
     <head>
     <meta charset="UTF-8">
@@ -83,7 +83,7 @@
         <td> johan</td>
         <tr>
 
-        </tr>
+       
     </tr>
     <td> johan</td>
     <td> johan</td>
@@ -91,7 +91,7 @@
     <td> johan</td>
     <tr>
 
-    </tr>
+   
 </tr>
 <td> johan</td>
 <td> johan</td>
@@ -99,7 +99,7 @@
 <td> johan</td>
 <tr>
 
-</tr>
+
 
         </table>
     </body>
