@@ -1,4 +1,4 @@
-
+<!Doctype html>
 <html>
     <head>
     <meta charset="UTF-8">
@@ -17,7 +17,7 @@
             top: 50%;
             transform: translate(-50%,-50%);
             border-collapse: collapse;
-            width: 800px;
+            width: 500px;
             height: 200px;
             border: 1px solid white;
             box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2), -1px -1px 8px rgba(0, 0, 0, 0.2);
@@ -57,10 +57,10 @@
             
         }
     </style>
-   
+    <body>
         <h1> hoverable Table</h1>
         <hr>
-        
+        <table>
             <tr id="BANADIR SCHOOL"> 
                 <th> MAGACA</th>
                 <th> MAADADA</th>
@@ -75,7 +75,7 @@
             <td> 99%</td>
             <tr>
 
-           
+            </tr>
         </tr>
         <td> johan</td>
         <td> johan</td>
@@ -83,22 +83,25 @@
         <td> johan</td>
         <tr>
 
-       
-   
+        </tr>
+    </tr>
     <td> johan</td>
     <td> johan</td>
     <td> johan</td>
     <td> johan</td>
     <tr>
 
-   
-
+    </tr>
+</tr>
 <td> johan</td>
 <td> johan</td>
 <td> johan</td>
 <td> johan</td>
 <tr>
 
+</tr>
 
-
- 
+        </table>
+    </body>
+</html>
+    
