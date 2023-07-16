@@ -75,7 +75,7 @@
             <td> 99%</td>
             <tr>
 
-            </tr>
+           
         </tr>
         <td> johan</td>
         <td> johan</td>
@@ -84,7 +84,7 @@
         <tr>
 
        
-    </tr>
+   
     <td> johan</td>
     <td> johan</td>
     <td> johan</td>
@@ -92,7 +92,7 @@
     <tr>
 
    
-</tr>
+
 <td> johan</td>
 <td> johan</td>
 <td> johan</td>
