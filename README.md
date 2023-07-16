@@ -1,104 +1,59 @@
-<!Doctype html>
-<html>
-    <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    </head>
-    <style>
-        body{
-            padding: 0;
-            margin: 0;
-            font-family: Verdana, Geneva, Tahoma, sans-serif;
-
-        }
-        Table{
-            position:absolute;
-            left: 50%;
-            top: 50%;
-            transform: translate(-50%,-50%);
-            border-collapse: collapse;
-            width: 500px;
-            height: 200px;
-            border: 1px solid white;
-            box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2), -1px -1px 8px rgba(0, 0, 0, 0.2);
-
-        }
-        tr{
-            transition: all .2s ease-in;
-            cursor: pointer;
-        }
-        th{
-            padding: 12px;
-            text-align: left;
-            border-bottom: 1px solid #ddd;
-
-        }
-        #header{
-            background-color: rgba(0, 81, 255, 0.705);
-            color: #ffffff;
-        }
-        h1{
-            font-weight: 600;
-            text-align: center;
-            background-color: aqua;
-            color: #ddd;
-            padding: 10px 0px;
-        }
-        tr:hover{
-            background-color: #ffffff;
-            transform: scal(1.02);
-            box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2), -1px -1px 8px rgba(0, 0, 0, 0.2);
-        }
-        /*media query*/
-        @media only screen and (max-width: 768px) {
-            table{
-                width: 90%;
-            }
-            
-        }
-    </style>
-    <body>
-        <h1> hoverable Table</h1>
-        <hr>
-        <table>
-            <tr id="BANADIR SCHOOL"> 
-                <th> MAGACA</th>
-                <th> MAADADA</th>
-                <th> MARKS</th>
-                <th> CELCELIS</th>
-                
-
-            </tr>
-            <td> MOHAMED ABDULKADIR MOHAMED</td>
-            <td> sOFTWARE ENG</td>
-            <td> 100</td>
-            <td> 99%</td>
-            <tr>
-
-           
-        </tr>
-        <td> johan</td>
-        <td> johan</td>
-        <td> johan</td>
-        <td> johan</td>
-        <tr>
-
-   
-    </tr>
-    <td> johan</td>
-    <td> johan</td>
-    <td> johan</td>
-    <td> johan</td>
-    <tr>
-
- 
-</tr>
-<td> johan</td>
-<td> johan</td>
-<td> johan</td>
-<td> johan</td>
-<tr>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>my website</title>
+    <link rel="stylesheet" href="carwo.css">
+</head>
+<body>
+    <div class="main">
+        <div class="navbar">
+            <div class=" icon">
+                <h2 class="logo">CNS221</h2>
+            </div>
+            <div class="menu">
+                <ul>
+                    <li> <a href="index.html">home</a></li>
+                    <li> <a href="about.html">about</a></li>
+                    <li> <a href="service.html">service</a></li>
+                    <li> <a href="contact.html">contact</a></li>
+                    <li> <a href="register.html">Registration</a></li>
+                    <li><a href="place.html">location</a></li>
+                    <li><a href="price.html">price</a></li>
+                </ul>
+            </div>
+            <div class="seach">
+                <input class="srch" type="search"name=""placeholder="type to text">
+                <a href="#"><button class="btn">search</button></a>
+            </div>
+      </div>
+      <div class="content">
+        <h1> <br><span>Carwo</span><br>Bilan</h1>
+        <p class="par"> 
+            Kusoo dhawoow adeegyadeena <br>waxaan idiin haynaa <br>
+             adeegyo badan oo cusub<br> kaalay oo nasoo gaar
+            <br> waxaan diyaar u nahay inaan qancino macaamiisheena.</p>
+             <button class="cn"><a href="#">welcome here</a></button>
+             <div class="from">
+                <h2>login here</h2>
+                <input type="email"name="email"placeholder="enter your email here">
+                <input type="password"name=""placeholder="enter your password here">
+                <button class="btnn"><a href="#">login</a></button>
+                <p class="link">don't have  an acount <br>
+                <a href="#">sign up here</a></p>
+                <p class="liw">log in with</p>
+                <div class="icon">
+                    <a href="#"><ion-icon name="logo-facebook"></ion-icon></a>
+                    <a href="#"><ion-icon name="logo-twitter"></ion-icon></a>
+                    <a href="#"><ion-icon name="logo-google"></ion-icon></a>
+                    <a href="#"><ion-icon name="logo-instagram"></ion-icon></a>
+                    <a href="#"><ion-icon name="logo-skype"></ion-icon></a>
 
 
 
-        
+
+                </div>
+             </div>
+      </div>
+       </div>
+        <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
