@@ -5,7 +5,7 @@
 }
 .main{
      width: 100%; 
-     background: linear-gradient url(IT.jpg); 
+     background: linear-gradient ,url(IT.jpg); 
      background-position: center; 
     background-size: cover;
     height: 100vh;
