@@ -9,7 +9,7 @@
     <div class="main">
         <div class="navbar">
             <div class=" icon">
-                <h2 class="logo">CNS221</h2>
+                <h2 class="logo">Nalfar</h2>
             </div>
             <div class="menu">
                 <ul>
